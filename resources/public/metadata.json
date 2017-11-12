@@ -1,0 +1,18 @@
+{
+  "table-name": "zfac",
+  "first-line": 16,
+  "directives": [
+    {
+      "column-name" : "name",
+      "column-index": 4
+    },
+    {
+      "column-name" : "lastname",
+      "column-index": 2
+    },
+    {
+      "column-name" : "age",
+      "column-index": 0
+    }
+  ]
+}
